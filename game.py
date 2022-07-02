@@ -4,7 +4,6 @@ from turtle import window_width
 import pygame
 import random
 import pickle
-import time
 import neat
 import os
 
